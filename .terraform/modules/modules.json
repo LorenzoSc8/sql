@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vpc","Source":"./modules/net-vpc","Dir":"modules/net-vpc"},{"Key":"","Source":"","Dir":"."},{"Key":"db","Source":"./modules/cloudsql-instance","Dir":"modules/cloudsql-instance"},{"Key":"project","Source":"./modules/project","Dir":"modules/project"}]}
